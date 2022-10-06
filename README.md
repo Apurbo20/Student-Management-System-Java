@@ -1,7 +1,7 @@
 # Student-Management-System-Java
 ## Student-Management-System-Java-Project.You can run this program in any java compatiable IDE to check it out. Thanks!! 
 
-## This java project made by me for practice perpose.It shows some fundamental features of java lamguage to conduct a Student management system.
+## This java project made by me for practice perpose.It shows some fundamental features of java language to conduct a Student management system.
 
 ## Thanks for visit! Make sure to check the demo below with output ---
 
